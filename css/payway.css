@@ -1,0 +1,10 @@
+#payment .payment_methods li img.img-1x {
+    max-height: 20px;
+}
+#payment .payment_methods li img.img-2x {
+    max-height: 25px;
+}
+
+#payment .payment_methods li img.img-3x {
+    max-height: 30px;
+}

@@ -1,0 +1,1 @@
+=== ABA Payway WooCommerce Payment Gateway ===Contributors: ShaligramTags: woocommerce, payment, payment gateway, credit card, cambodia,paywayRequires at least: 3.3Tested up to: 5.02Requires PHP: 5.6== Description ==PayWay for WooCommerce is a free payment gateway for WooCommerce
